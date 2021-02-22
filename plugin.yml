@@ -1,0 +1,9 @@
+name: Env Printer
+description: Print the environment variables available in a pre-command hook
+author: https://github.com/yob
+requirements: []
+configuration:
+  properties:
+    pattern:
+      type: string
+  additionalProperties: false
